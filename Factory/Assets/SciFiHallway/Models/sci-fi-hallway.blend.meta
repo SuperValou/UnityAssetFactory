@@ -3,7 +3,42 @@ guid: 4a9000fceec127e459279137a6a81456
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arches_Redux_Scale
+    second: {fileID: 2100000, guid: b2a6ebac31d85d34eac987b07efb1af4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: e219bd793eefb034caa7b87d53395a72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlowingGlass
+    second: {fileID: 2100000, guid: b8d0d9e5f6884414b925a0542304d763, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rough_Glass
+    second: {fileID: 2100000, guid: 54d82fd9a77a6b04683a5e7d9a27eec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: ef43b0ce06c61894395ec227400ca027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_bar_mat
+    second: {fileID: 2100000, guid: 4594feea07bdc11438f7a6339e237b1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_variant
+    second: {fileID: 2100000, guid: d821189cb1991ee4babfddc0d52f927e, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -69,7 +104,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   humanDescription:
     serializedVersion: 3
     human: []
