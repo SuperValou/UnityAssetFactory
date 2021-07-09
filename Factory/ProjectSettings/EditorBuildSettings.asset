@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SciFiHallway/SciFiHallway.unity
+    guid: a7889594255dc0544a514b16bac0ee54
   m_configObjects: {}
